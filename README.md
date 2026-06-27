@@ -116,3 +116,8 @@ Hasta ahora lo unico que se conoce acerca del usuario root es que el username es
 ## Logs de inicio
 [bootlog.txt](https://github.com/user-attachments/files/28448573/bootlog.txt)
 
+# LADIES AND GENTLEEMAN. WE GOT HIM
+el enry34t solo es una version modificada del vodafone h300s
+Mismo procesador mips, mismo almacenamiento y esquema de particiones. con el mismo uboot de sercomm.
+Gracias a dios este modem tiene firmware backups y esta mas docuementado https://openwrt.org/toh/vodafone/vodafoneh300s
+
